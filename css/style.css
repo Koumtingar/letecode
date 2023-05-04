@@ -1,0 +1,73 @@
+#navigation li a{
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+}
+#navigation li{
+    display: inline-block;
+}
+#navigation{
+    background-color: rgb(6, 6, 51);
+    height: 40px;
+}
+.liste,.logo,.p{
+    display: inline-block;
+    margin-top: 8px;
+}
+.logo{
+    margin-left: 60px;
+    position: relative;
+    bottom: 6px;
+}
+.liste{
+    margin-left: 700px;
+}
+.p{
+    color: white;
+}
+.section{
+    text-align: center;
+    margin-top: 60px;
+}
+.bienvenu{
+    font-size: 25px;
+    font-family: calibri;
+}
+#milieu{
+    background-color: darkgrey;
+    margin-top: 20px;
+    display: flex;
+    height: 300px;
+}
+.prem{
+    margin-top: 90px;
+    margin-left: 100px;
+}
+.log{
+    margin-top: 60px;
+    position: relative;
+    margin-left: 180px;
+
+}
+#apropos{
+    text-align: left;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 30px;
+}
+.foot{
+    background-color: rgb(6, 6, 51);
+    height: 150px;
+}
+body{
+    border: 5px;
+}
+.sign{
+    color: white;
+    margin-left: 100px;
+    position: relative;
+    top: 50px;
+}
+.liste1{
+    margin-left: 10px;
+}
